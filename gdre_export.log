@@ -1,0 +1,83 @@
+GDRE Tools v2.5.0-beta.5
+Windows 10.0.22621, Intel(R) HD Graphics 520, vulkan
+Opening file: C:/Users/janainternet/Downloads/Quarantine Zero.pck
+Loaded 388 imported files
+Detected Engine Version: 4.4.1
+Detected Bytecode Revision: 4.3.0-stable (77af6ca)
+Verified 795 files, no errors detected!
+Extracted 795 files, no errors detected!
+Recreating plugin configs...
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     125
+Failed scripts:                         0
+Imported resources for export session:  348
+Successfully converted:                 315
+Lossy:                                  35
+Rewrote metadata:                       108
+Non-importable conversions:             0
+Not converted:                          33
+Failed conversions:                     0
+-------------
+
+------
+
+The following files were not converted because support has not been implemented yet:
+res://.godot/imported/BearTrap.aseprite-8061421af1ca46b20bff399c25ee7ff1.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to BearTrap.aseprite
+res://.godot/imported/BugEnemy.aseprite-7f0dc4b143decc0d65902c7be807c794.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to BugEnemy.aseprite
+res://.godot/imported/Door.aseprite-2832350c7c4c5a7370167d82076f70b1.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to Door.aseprite
+res://.godot/imported/DoorHorizontal.aseprite-684820242c51322cbcadedfdab27c602.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to DoorHorizontal.aseprite
+res://.godot/imported/EnemyBullet.aseprite-723a4d25e93270bdf67a5a47398550ba.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to EnemyBullet.aseprite
+res://.godot/imported/EscaperEnemy.aseprite-5b4554ee0be67cc927e821f6ae7d9023.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to EscaperEnemy.aseprite
+res://.godot/imported/Gun.aseprite-48b78306df222612de72bf70599eef34.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to Gun.aseprite
+res://.godot/imported/LogHologram.aseprite-2b03da485586c8d78d937e0a06e28e37.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to LogHologram.aseprite
+res://.godot/imported/Logo.aseprite-4f5cb4c0fb8d25d8a75c496253e03614.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to Logo.aseprite
+res://.godot/imported/MedicalCapsule.aseprite-6b0ed3e0a914131a7eca89f06f316647.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to MedicalCapsule.aseprite
+res://.godot/imported/MedicalCapsuleGlass.aseprite-372333ed30a89d9697af2c5fa9a2a87a.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to MedicalCapsuleGlass.aseprite
+res://.godot/imported/MeleeAttack.aseprite-55c58ebf83fb416bbffe9dd597ae68e7.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to MeleeAttack.aseprite
+res://.godot/imported/MeleeAttack2.aseprite-3cf3eda5242987907132837648c95357.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to MeleeAttack2.aseprite
+res://.godot/imported/MouseCursor.aseprite-cf1de13008bf242db7b389f4b0a2f88b.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to MouseCursor.aseprite
+res://.godot/imported/OfficeChair.aseprite-2db33e68d3035988b86e9b73f898760e.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to OfficeChair.aseprite
+res://.godot/imported/PaintRoom.aseprite-1540d4ede4ac43513d2eab909a7ab89a.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to PaintRoom.aseprite
+res://.godot/imported/EnemyDeathSplash.aseprite-f0f2b4e55cf0e035190b12418ff6cdde.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to EnemyDeathSplash.aseprite
+res://.godot/imported/Player.aseprite-8704386bf15ad98704368d874b820000.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to Player.aseprite
+res://.godot/imported/PortalEnemy.aseprite-46abd6538c835fd28f3279eb24835429.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to PortalEnemy.aseprite
+res://.godot/imported/Radar.aseprite-8f711910e3d75c8468b50ba276164162.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to Radar.aseprite
+res://.godot/imported/RewardIcons.aseprite-0275259ccf26b502a2aba21c9c3b8cc2.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to RewardIcons.aseprite
+res://.godot/imported/RhinoBeetleEnemy.aseprite-93efe73ed4cb6d7ceeb875145cb120ec.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to RhinoBeetleEnemy.aseprite
+res://.godot/imported/RunDoor.aseprite-cf7a3c2cf743c8dec0006416780e5fbd.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to RunDoor.aseprite
+res://.godot/imported/ShootEnemy.aseprite-85c64c8c055e376694160cf63263cf31.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to ShootEnemy.aseprite
+res://.godot/imported/SlashParticle.aseprite-01ff1efff30029fc4df5dda3cedb20c9.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to SlashParticle.aseprite
+res://.godot/imported/SnailEnemy.aseprite-e0d95e63ad692154e6bc8cc37539a32a.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to SnailEnemy.aseprite
+res://.godot/imported/Spear.aseprite-b6cad2cb04e01f88d8de8fed466e39e7.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to Spear.aseprite
+res://.godot/imported/Spikes.aseprite-1cb6fdb2616b2450cf5e6514e21e3483.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to Spikes.aseprite
+res://.godot/imported/Sword.aseprite-6b525036b857fd968584b3d01568bf5f.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to Sword.aseprite
+res://.godot/imported/WeaponJar.aseprite-93dc84fcb88ae1deefbe6f64b8241cda.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: aseprite) to WeaponJar.aseprite
+res://.godot/imported/final_room.ase-0b9dd5e416e42e4c702f87fb05306ac2.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: ase) to final_room.ase
+res://.godot/imported/main_room.ase-3bea410498ded65403be37642c3fa428.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: ase) to main_room.ase
+res://.godot/imported/teleport_main_room_section.ase-697c7875cb99402da6f4c992b9d99853.res ( importer: aseprite_wizard.plugin.noop, type: PackedDataContainer, format: ase) to teleport_main_room_section.ase
+
+
+
+---------------------------------IMPORTANT NOTES----------------------------------
+
+
+Unsupported Resources Detected:
+The following resource types were detected in the project that conversion is not implemented for yet.
+See Export Report to see which resources were not exported.
+You will still be able to edit the project in the editor regardless.
+ - Resource Type: PackedDataContainer Format: aseprite Importer: aseprite_wizard.plugin.noop
+ - Resource Type: PackedDataContainer Format: ase      Importer: aseprite_wizard.plugin.noop
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 4.4.1 to edit the project.
+
+*******************************************************************************
+
